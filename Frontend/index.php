@@ -14,12 +14,12 @@
 <div class="logo"><img src="favpng_rushdales-cafe-cooking-chef-food-logo.png" alt="" srcset=""></div>
 <div class="welcometext"><h1>Welcome to Orderlooza</h1></div>
 <div class="loginbar"><form>
-    <label for="fname">Name</label><br>
-    <input type="text" id="fname" name="fname"><br>
-    <label for="fname">Patient-ID</label><br>
-    <input type="text" id="fname" name="fname"><br>
-    <label for="fname">Room Number</label><br>
-    <input type="text" id="fname" name="fname"><br>
+    <label for="name">Name</label><br>
+    <input type="text" id="fname" name="name"><br>
+    <label for="patient_number">Patient-ID</label><br>
+    <input type="text" id="fname" name="patient_number"><br>
+    <label for="room_number">Room Number</label><br>
+    <input type="text" id="fname" name="room_number"><br>
     <br>
     <input type="submit" value="Login">
   </form></div>
