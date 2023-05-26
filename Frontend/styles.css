@@ -29,12 +29,21 @@
 }
 .loginbar{
     position: absolute;
-    right: 470px;
+    right: 520px;
     top: 390px;
 }
-input{
-    width: 300%;
+.loginbutton{
+    position: absolute;
+    right: 480px;
+    top: 600px;
+}
+input[type=text]{
+    width: 370%;
+    border-radius: 12px;
+    height: 35px;
   }
 input[type=submit]{
-    width: 100%;
+    width: 600%;
+    height: 55px;
+    border-radius: 12px;
 }
