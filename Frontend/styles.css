@@ -10,6 +10,7 @@
     position: absolute;
     right: 200px;
     font-size: xx-large;
+    font-family: 'Pacifico',cursive;
 }
 .logo{
     position: absolute;
@@ -18,4 +19,16 @@
     width:  100px;
     right: 1320px;
     top: 100px;
+}
+.welcometext{
+    position: absolute;
+    right: 170px;
+    font-size: large; 
+    top: 250px;
+    font-family: 'Quicksand', sans-serif;
+}
+.loginbar{
+    position: absolute;
+    right: 470px;
+    top: 390px;
 }
