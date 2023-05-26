@@ -8,11 +8,11 @@
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=family=Pacifico&family=Quicksand:wght@300&display=swap" rel="stylesheet">
 </head>
-<div class="mainmenutext"><h1>Orderlooza</h1></div>
+<div class="mainmenutext"><h1>𝓞𝓻𝓭𝓮𝓻𝓵𝓸𝓸𝔃𝓪</h1></div>
 <body scroll="no" style="overflow: hidden">
 <div class="greenbarmainscreen"></div>
 <div class="logo"><img src="favpng_rushdales-cafe-cooking-chef-food-logo.png" alt="" srcset=""></div>
-<div class="welcometext"><h1>Welcome to Orderlooza</h1></div>
+<div class="welcometext"><h1>Ｗｅｌｃｏｍｅ ｔｏ Ｏｒｄｅｒｌｏｏｚａ</h1></div>
 <div class="loginbar"><form>
     <label for="name">Name</label><br>
     <input type="text" id="fname" name="name"><br>
@@ -21,8 +21,10 @@
     <label for="room_number">Room Number</label><br>
     <input type="text" id="fname" name="room_number"><br>
     <br>
-    <input type="submit" value="Login">
-  </form></div>
+    </form>
 </div>
+<div class="loginbutton"><form>
+    <input type="submit" value="Login">
+</form></div>
 </body>
 </html>
