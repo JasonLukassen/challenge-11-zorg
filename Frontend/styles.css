@@ -8,7 +8,7 @@
 }
 .mainmenutext{
     position: absolute;
-    right: 200px;
+    right: 160px;
     font-size: xx-large;
     font-family: 'Pacifico',cursive;
 }
@@ -22,8 +22,8 @@
 }
 .welcometext{
     position: absolute;
-    right: 170px;
-    font-size: large; 
+    right: 120px;
+    font-size: small; 
     top: 250px;
     font-family: 'Quicksand', sans-serif;
 }
@@ -31,4 +31,10 @@
     position: absolute;
     right: 470px;
     top: 390px;
+}
+input{
+    width: 300%;
+  }
+input[type=submit]{
+    width: 100%;
 }
